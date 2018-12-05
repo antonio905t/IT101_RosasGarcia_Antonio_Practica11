@@ -1,0 +1,33 @@
+img{
+    width: 50%;
+    height: auto;
+    float: left;
+    margin-right: 10px;
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li{
+    display: inline;
+    padding: 5px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 20px;
+}
+
+nav a:hover{
+    background-color: #a8a8a8;
+    border-radius: 5px;
+    color: #fff;
+}
+
+p{
+    text-align: justify;
+}
